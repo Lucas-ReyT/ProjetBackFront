@@ -22,3 +22,8 @@ Ce projet est une application de gestion de librairie simple, construite avec Re
    ```bash
    git clone https://github.com/votre-utilisateur/gestion-librairie.git
    cd gestion-librairie
+
+
+   -----------
+ATTENTION :
+   Le back et le front ne sont pas lié 
